@@ -1,0 +1,30 @@
+
+.collapse{
+	margin-left: 80%;
+}
+.card{
+	background-color: transparent;
+	border-color: transparent;
+	margin-top: 0%;
+	margin-left: 10%;
+}
+.img{
+	margin-left: 40%;
+	width: 22%;
+	height: 22%;
+	border-radius: 50%;
+}
+.btn{
+	color: white;
+	margin-left: 33%;
+}
+.btn-block{
+	width: 35%;
+}
+.bg{
+	background: url('photo/bg/birthday-1835449_1920.jpg') no-repeat fixed;
+	-webkit-background-size:100% 100%;
+	-moz-background-size:100% 100%;
+	-o-background-size:100% 100%;
+	background-size:100% 100%;
+}
